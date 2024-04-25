@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0
+
+cards:
+  message: "Welcome to CodeMaster cards related local API's "
+  contactDetails:
+    name: "Sudhir Shinde - @Developer"
+    email: "sudhirshinde@codemaster.com"
+  onCallSupport:
+    - (02347)-272040
+    - (+91)-9130931084

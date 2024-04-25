@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0
+
+loans:
+  message: "Welcome to CodeMaster Loans related local API's "
+  contactDetails:
+    name: "Sudhir Shinde - @Developer"
+    email: "sudhirshinde@codemaster.com"
+  onCallSupport:
+    - (02347)-272040
+    - (+91)-9130931084

@@ -1,0 +1,12 @@
+
+build:
+  version: 1.0
+
+cards:
+  message: "Welcome to CodeMaster cards related prod API's "
+  contactDetails:
+    name: "Om Shinde - @Product Owner"
+    email: "omshinde@codemaster.com"
+  onCallSupport:
+    - (02347)-272042
+    - (+91)-9545414224
